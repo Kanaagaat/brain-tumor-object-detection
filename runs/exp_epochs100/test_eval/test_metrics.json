@@ -1,0 +1,97 @@
+{
+  "run": "exp_epochs100",
+  "checkpoint": "runs/exp_epochs100/weights/best.pt",
+  "selected_by": "validation mAP@0.50:0.95",
+  "n_images": 203,
+  "n_background_images": 45,
+  "n_boxes": 167,
+  "versions": {
+    "ultralytics": "8.4.190",
+    "torch": "2.13.0",
+    "device": "cpu"
+  },
+  "ultralytics_val": {
+    "settings": {
+      "split": "test",
+      "imgsz": 512,
+      "batch": 16,
+      "conf": 0.001,
+      "iou": 0.7,
+      "match_iou": 0.5,
+      "precision_recall_at_conf": 0.7578
+    },
+    "metrics": {
+      "Glioma": {
+        "precision": 0.9101,
+        "recall": 0.678,
+        "mAP50": 0.8594,
+        "mAP50-95": 0.6109
+      },
+      "Meningioma": {
+        "precision": 0.9809,
+        "recall": 1.0,
+        "mAP50": 0.995,
+        "mAP50-95": 0.8795
+      },
+      "Pituitary": {
+        "precision": 0.9294,
+        "recall": 0.9636,
+        "mAP50": 0.9832,
+        "mAP50-95": 0.6964
+      },
+      "all": {
+        "precision": 0.9401,
+        "recall": 0.8805,
+        "mAP50": 0.9459,
+        "mAP50-95": 0.7289
+      }
+    }
+  },
+  "fixed_threshold": {
+    "settings": {
+      "conf": 0.25,
+      "nms_iou": 0.7,
+      "match_iou": 0.5
+    },
+    "metrics": {
+      "Glioma": {
+        "TP": 47,
+        "FP": 12,
+        "FN": 12,
+        "precision": 0.7966,
+        "recall": 0.7966
+      },
+      "Meningioma": {
+        "TP": 53,
+        "FP": 2,
+        "FN": 0,
+        "precision": 0.9636,
+        "recall": 1.0
+      },
+      "Pituitary": {
+        "TP": 55,
+        "FP": 11,
+        "FN": 0,
+        "precision": 0.8333,
+        "recall": 1.0
+      },
+      "all": {
+        "TP": 155,
+        "FP": 25,
+        "FN": 12,
+        "precision": 0.8611,
+        "recall": 0.9281
+      }
+    }
+  },
+  "prediction_examples": [
+    "gl_Tr_gl_0963_d467ac.jpg",
+    "gl_gg_540_38c51b.jpg",
+    "me_Tr_me_0503_4079e7.jpg",
+    "me_Tr_me_1181_4357c3.jpg",
+    "no_Tr_no_0602_124117.jpg",
+    "no_image_62_5ed04e.jpg",
+    "pi_Tr_pi_0510_7fadc2.jpg",
+    "pi_p_754_a818b6.jpg"
+  ]
+}

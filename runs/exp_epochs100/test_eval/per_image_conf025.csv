@@ -1,0 +1,204 @@
+file,gt,pred,TP,FP,FN,gt_best_iou
+gl_Te_gl_0015_27df96.jpg,Glioma,Glioma:0.92,1,0,0,0.95
+gl_Te_gl_0146_dc599f.jpg,Glioma,Glioma:0.90,1,0,0,0.86
+gl_Te_gl_0195_348ca9.jpg,Glioma,Glioma:0.86,1,0,0,0.91
+gl_Te_gl_0277_51a658.jpg,Glioma,Glioma:0.85 Pituitary:0.26,1,1,0,0.93
+gl_Tr_gl_0038_70cc51.jpg,Glioma,Glioma:0.90,1,0,0,0.95
+gl_Tr_gl_0060_110474.jpg,Glioma Glioma,Glioma:0.88,1,0,1,0.80 0.07
+gl_Tr_gl_0153_f9deb3.jpg,Glioma,Glioma:0.85,1,0,0,0.77
+gl_Tr_gl_0154_783bbf.jpg,Glioma,Glioma:0.88,1,0,0,0.88
+gl_Tr_gl_0155_e80990.jpg,Glioma,Glioma:0.89,1,0,0,0.74
+gl_Tr_gl_0168_86bf09.jpg,Glioma,Glioma:0.93,1,0,0,0.92
+gl_Tr_gl_0169_c257a1.jpg,Glioma,Glioma:0.90,1,0,0,0.68
+gl_Tr_gl_0170_7090c4.jpg,Glioma Glioma,Glioma:0.91,1,0,1,0.83 0.00
+gl_Tr_gl_0335_0252b5.jpg,Glioma,Glioma:0.70 Glioma:0.42,1,1,0,0.84
+gl_Tr_gl_0639_c495c5.jpg,Glioma,Glioma:0.93 Glioma:0.36,1,1,0,0.92
+gl_Tr_gl_0640_088ef2.jpg,Glioma,Glioma:0.92,1,0,0,0.96
+gl_Tr_gl_0662_7d2cb9.jpg,Glioma,Glioma:0.83,1,0,0,0.83
+gl_Tr_gl_0663_ee6517.jpg,Glioma,Glioma:0.91,1,0,0,0.92
+gl_Tr_gl_0828_9063a7.jpg,Glioma,Glioma:0.91,1,0,0,0.93
+gl_Tr_gl_0962_bee359.jpg,Glioma Glioma,Glioma:0.94 Glioma:0.53,1,1,1,0.95 0.00
+gl_Tr_gl_0963_d467ac.jpg,Glioma,Glioma:0.89,1,0,0,0.95
+gl_Tr_gl_0999_19330a.jpg,Glioma,Glioma:0.84,1,0,0,0.88
+gl_Tr_gl_1040_d9bd43.jpg,Glioma,Glioma:0.88 Pituitary:0.29,1,1,0,0.97
+gl_Tr_gl_1098_bfc7bb.jpg,Glioma,Glioma:0.93,1,0,0,0.96
+gl_Tr_gl_1121_30ad59.jpg,Glioma,Glioma:0.82 Glioma:0.75,1,1,0,0.93
+gl_Tr_gl_1198_dd6e27.jpg,Glioma Glioma,Glioma:0.87 Glioma:0.85,2,0,0,0.84 0.81
+gl_Tr_gl_1211_07339f.jpg,Glioma,Meningioma:0.74 Glioma:0.56,1,1,0,0.92
+gl_gg_185_d5397a.jpg,Glioma,Glioma:0.79,1,0,0,0.96
+gl_gg_223_070263.jpg,Glioma,Glioma:0.92,1,0,0,0.95
+gl_gg_231_96a0de.jpg,Glioma,Glioma:0.90,1,0,0,0.86
+gl_gg_295_fd7762.jpg,Glioma,Glioma:0.55,1,0,0,0.77
+gl_gg_362_9c141d.jpg,Glioma,Glioma:0.90,1,0,0,0.92
+gl_gg_385_13aba4.jpg,Glioma,Glioma:0.59,1,0,0,0.80
+gl_gg_386_192a1a.jpg,Glioma,Glioma:0.82,0,1,1,0.26
+gl_gg_459_daa65c.jpg,Glioma,Glioma:0.89 Glioma:0.77 Glioma:0.58,0,3,1,0.45
+gl_gg_468_3cc58d.jpg,Glioma Glioma,Glioma:0.50,1,0,1,0.00 0.89
+gl_gg_500_bcbf26.jpg,Glioma,Glioma:0.90,1,0,0,0.86
+gl_gg_511_ef0aa3.jpg,Glioma,Glioma:0.89,1,0,0,0.96
+gl_gg_513_f2fe51.jpg,Glioma,Glioma:0.91,1,0,0,0.96
+gl_gg_535_096cf0.jpg,Glioma,Glioma:0.68,1,0,0,0.89
+gl_gg_536_bcf142.jpg,Glioma,Glioma:0.71,0,1,1,0.47
+gl_gg_539_d14cd9.jpg,Glioma,Glioma:0.91,1,0,0,0.80
+gl_gg_540_38c51b.jpg,Glioma,Glioma:0.86,1,0,0,0.63
+gl_gg_541_61a2ca.jpg,Glioma,Glioma:0.84,1,0,0,0.71
+gl_gg_543_7bda0b.jpg,Glioma,Glioma:0.58,1,0,0,0.53
+gl_gg_592_536cd5.jpg,Glioma,Glioma:0.27,0,1,1,0.00
+gl_gg_594_0034dc.jpg,Glioma,Glioma:0.86,1,0,0,0.92
+gl_gg_59_b24e92.jpg,Glioma,Glioma:0.86,1,0,0,0.75
+gl_gg_75_4e4185.jpg,Glioma,Glioma:0.92,1,0,0,0.90
+gl_gg_76_eb59f4.jpg,Glioma,Glioma:0.92,1,0,0,0.96
+gl_gg_786_b23cdb.jpg,Glioma Glioma,,0,0,2,0.00 0.00
+gl_gg_787_36a287.jpg,Glioma,Glioma:0.75,0,1,1,0.49
+gl_gg_95_4a9e36.jpg,Glioma Glioma,Glioma:0.87,1,0,1,0.88 0.00
+me_Tr_me_0038_0cf318.jpg,Meningioma,Meningioma:0.91,1,0,0,0.83
+me_Tr_me_0046_6c3422.jpg,Meningioma,Meningioma:0.90,1,0,0,0.74
+me_Tr_me_0154_87fd03.jpg,Meningioma,Meningioma:0.82,1,0,0,0.80
+me_Tr_me_0208_3d2866.jpg,Meningioma,Meningioma:0.90,1,0,0,0.92
+me_Tr_me_0357_e98fb0.jpg,Meningioma,Meningioma:0.92,1,0,0,0.86
+me_Tr_me_0387_45352d.jpg,Meningioma,Meningioma:0.90,1,0,0,0.88
+me_Tr_me_0424_e87c7f.jpg,Meningioma,Meningioma:0.93,1,0,0,0.95
+me_Tr_me_0445_aa9036.jpg,Meningioma,Meningioma:0.94,1,0,0,0.98
+me_Tr_me_0450_e3ff24.jpg,Meningioma,Meningioma:0.93,1,0,0,0.98
+me_Tr_me_0451_df4333.jpg,Meningioma,Meningioma:0.93,1,0,0,0.97
+me_Tr_me_0503_4079e7.jpg,Meningioma,Meningioma:0.92,1,0,0,0.87
+me_Tr_me_0504_957e78.jpg,Meningioma,Meningioma:0.93,1,0,0,0.96
+me_Tr_me_0505_cff315.jpg,Meningioma,Meningioma:0.93,1,0,0,0.98
+me_Tr_me_0506_76179c.jpg,Meningioma,Meningioma:0.93,1,0,0,0.96
+me_Tr_me_0514_b3d56d.jpg,Meningioma,Meningioma:0.92,1,0,0,0.86
+me_Tr_me_0528_d33e4f.jpg,Meningioma,Meningioma:0.92,1,0,0,0.91
+me_Tr_me_0581_21d276.jpg,Meningioma,Meningioma:0.89,1,0,0,0.93
+me_Tr_me_0591_5bfe33.jpg,Meningioma,Meningioma:0.94,1,0,0,0.95
+me_Tr_me_0609_130496.jpg,Meningioma,Meningioma:0.91,1,0,0,0.97
+me_Tr_me_0610_283d7f.jpg,Meningioma,Meningioma:0.82 Pituitary:0.41,1,1,0,0.91
+me_Tr_me_0618_35c2f9.jpg,Meningioma,Meningioma:0.92,1,0,0,0.98
+me_Tr_me_0638_de0c4c.jpg,Meningioma,Meningioma:0.93,1,0,0,0.97
+me_Tr_me_0648_fc7d5d.jpg,Meningioma,Meningioma:0.92,1,0,0,0.97
+me_Tr_me_0649_3decff.jpg,Meningioma,Meningioma:0.93,1,0,0,0.97
+me_Tr_me_0650_abf3dd.jpg,Meningioma,Meningioma:0.91,1,0,0,0.98
+me_Tr_me_0664_2d6778.jpg,Meningioma,Meningioma:0.93,1,0,0,0.97
+me_Tr_me_0670_4c19e7.jpg,Meningioma,Meningioma:0.91,1,0,0,0.90
+me_Tr_me_0681_21b0f6.jpg,Meningioma,Meningioma:0.90,1,0,0,0.93
+me_Tr_me_0716_b3c18a.jpg,Meningioma,Meningioma:0.94,1,0,0,0.99
+me_Tr_me_0766_c593da.jpg,Meningioma,Meningioma:0.91,1,0,0,0.96
+me_Tr_me_1020_5ef51b.jpg,Meningioma,Meningioma:0.92,1,0,0,0.96
+me_Tr_me_1031_90c62d.jpg,Meningioma,Meningioma:0.92,1,0,0,0.91
+me_Tr_me_1032_f9a2e6.jpg,Meningioma,Meningioma:0.92,1,0,0,0.98
+me_Tr_me_1107_50b8d2.jpg,Meningioma,Meningioma:0.92,1,0,0,0.95
+me_Tr_me_1108_e1d61c.jpg,Meningioma,Meningioma:0.92,1,0,0,0.95
+me_Tr_me_1128_abc7a1.jpg,Meningioma,Glioma:0.83 Meningioma:0.49,1,1,0,0.93
+me_Tr_me_1140_0c4259.jpg,Meningioma,Meningioma:0.91,1,0,0,0.95
+me_Tr_me_1174_ff4b95.jpg,Meningioma,Meningioma:0.91,1,0,0,0.96
+me_Tr_me_1181_4357c3.jpg,Meningioma,Meningioma:0.91,1,0,0,0.92
+me_Tr_me_1289_2efb25.jpg,Meningioma,Meningioma:0.91,1,0,0,0.84
+me_Tr_me_1295_68440a.jpg,Meningioma,Meningioma:0.91,1,0,0,0.96
+me_Tr_me_1337_2f3041.jpg,Meningioma,Meningioma:0.90,1,0,0,0.94
+me_m1_175_fab4d7.jpg,Meningioma,Meningioma:0.89,1,0,0,0.95
+me_m1_26_074487.jpg,Meningioma,Meningioma:0.94,1,0,0,0.91
+me_m1_27_5d52ef.jpg,Meningioma,Meningioma:0.91,1,0,0,0.94
+me_m1_36_f0ad61.jpg,Meningioma,Meningioma:0.83,1,0,0,0.87
+me_m2_147_1758d1.jpg,Meningioma,Meningioma:0.91,1,0,0,0.90
+me_m2_167_021e94.jpg,Meningioma,Meningioma:0.89,1,0,0,0.88
+me_m3_204_3cb17d.jpg,Meningioma,Meningioma:0.85 Meningioma:0.25,1,1,0,0.93
+me_m3_35_df5478.jpg,Meningioma,Meningioma:0.90,1,0,0,0.93
+me_m_196_ec8830.jpg,Meningioma,Meningioma:0.94,1,0,0,0.94
+me_m_56_f617d7.jpg,Meningioma,Meningioma:0.88,1,0,0,0.88
+me_m_57_4cb5f7.jpg,Meningioma,Meningioma:0.93,1,0,0,0.90
+no_Tr_no_0013_e0e9fe.jpg,,,0,0,0,
+no_Tr_no_0100_02ca35.jpg,,,0,0,0,
+no_Tr_no_0150_7108f7.jpg,,,0,0,0,
+no_Tr_no_0156_308325.jpg,,,0,0,0,
+no_Tr_no_0170_40881f.jpg,,,0,0,0,
+no_Tr_no_0212_f1cc5a.jpg,,,0,0,0,
+no_Tr_no_0309_1588d9.jpg,,,0,0,0,
+no_Tr_no_0321_4b88b2.jpg,,,0,0,0,
+no_Tr_no_0334_5a2b03.jpg,,,0,0,0,
+no_Tr_no_0362_aa9959.jpg,,,0,0,0,
+no_Tr_no_0488_918a98.jpg,,,0,0,0,
+no_Tr_no_0510_28840b.jpg,,,0,0,0,
+no_Tr_no_0520_fee84e.jpg,,,0,0,0,
+no_Tr_no_0530_73437e.jpg,,,0,0,0,
+no_Tr_no_0565_3a85a9.jpg,,,0,0,0,
+no_Tr_no_0592_e6330f.jpg,,,0,0,0,
+no_Tr_no_0602_124117.jpg,,,0,0,0,
+no_Tr_no_0605_bd99ed.jpg,,,0,0,0,
+no_Tr_no_0618_159c77.jpg,,,0,0,0,
+no_Tr_no_0640_090141.jpg,,,0,0,0,
+no_Tr_no_0677_0fd8d5.jpg,,,0,0,0,
+no_Tr_no_0850_52c920.jpg,,,0,0,0,
+no_Tr_no_1053_242547.jpg,,,0,0,0,
+no_Tr_no_1324_e569f7.jpg,,,0,0,0,
+no_Tr_no_1339_a63632.jpg,,,0,0,0,
+no_Tr_no_1427_779302.jpg,,,0,0,0,
+no_Tr_no_1464_5e557d.jpg,,,0,0,0,
+no_Tr_no_1547_77eeda.jpg,,,0,0,0,
+no_image_117_59e90c.jpg,,Pituitary:0.80,0,1,0,
+no_image_118_35e8a4.jpg,,,0,0,0,
+no_image_130_d71440.jpg,,,0,0,0,
+no_image_131_046dfe.jpg,,,0,0,0,
+no_image_142_bbe4e3.jpg,,,0,0,0,
+no_image_168_fe2231.jpg,,,0,0,0,
+no_image_178_40da03.jpg,,,0,0,0,
+no_image_182_ebd0a5.jpg,,,0,0,0,
+no_image_185_7eace6.jpg,,,0,0,0,
+no_image_286_9d40a3.jpg,,,0,0,0,
+no_image_41_55059c.jpg,,,0,0,0,
+no_image_62_5ed04e.jpg,,,0,0,0,
+no_image_65_726978.jpg,,,0,0,0,
+no_image_67_7b87a4.jpg,,,0,0,0,
+no_image_68_dfaa0b.jpg,,,0,0,0,
+no_image_6_eb3ccb.jpg,,Pituitary:0.70,0,1,0,
+no_image_78_214c51.jpg,,,0,0,0,
+pi_Te_pi_0048_6078a3.jpg,Pituitary,Pituitary:0.81,1,0,0,0.89
+pi_Te_pi_0057_d8cb15.jpg,Pituitary,Pituitary:0.88,1,0,0,0.91
+pi_Tr_pi_0041_efd4f6.jpg,Pituitary,Pituitary:0.90,1,0,0,0.91
+pi_Tr_pi_0162_8edd7c.jpg,Pituitary Pituitary,Pituitary:0.83 Pituitary:0.65,2,0,0,0.88 0.57
+pi_Tr_pi_0191_cecbe2.jpg,Pituitary,Pituitary:0.84,1,0,0,0.79
+pi_Tr_pi_0192_1ee2d1.jpg,Pituitary,Pituitary:0.84,1,0,0,0.88
+pi_Tr_pi_0193_ff90bc.jpg,Pituitary,Pituitary:0.85,1,0,0,0.84
+pi_Tr_pi_0252_8031fa.jpg,Pituitary,Pituitary:0.91,1,0,0,0.91
+pi_Tr_pi_0335_995975.jpg,Pituitary,Pituitary:0.92,1,0,0,0.90
+pi_Tr_pi_0371_3525fd.jpg,Pituitary,Pituitary:0.90,1,0,0,0.95
+pi_Tr_pi_0419_ea1cbc.jpg,Pituitary,Pituitary:0.87,1,0,0,0.79
+pi_Tr_pi_0420_3f5b46.jpg,Pituitary,Pituitary:0.85,1,0,0,0.82
+pi_Tr_pi_0421_dcdb31.jpg,Pituitary,Pituitary:0.89,1,0,0,0.87
+pi_Tr_pi_0494_da520a.jpg,Pituitary,Pituitary:0.90,1,0,0,0.91
+pi_Tr_pi_0508_e6d2f6.jpg,Pituitary,Pituitary:0.83,1,0,0,0.87
+pi_Tr_pi_0509_4990b6.jpg,Pituitary,Pituitary:0.82,1,0,0,0.83
+pi_Tr_pi_0510_7fadc2.jpg,Pituitary,Pituitary:0.83,1,0,0,0.81
+pi_Tr_pi_0559_c956f6.jpg,Pituitary,Pituitary:0.87,1,0,0,0.66
+pi_Tr_pi_0560_b24fed.jpg,Pituitary,Pituitary:0.84,1,0,0,0.78
+pi_Tr_pi_0563_481e36.jpg,Pituitary,Pituitary:0.91,1,0,0,0.79
+pi_Tr_pi_0571_25c38d.jpg,Pituitary,Pituitary:0.89,1,0,0,0.60
+pi_Tr_pi_0640_a160db.jpg,Pituitary,Pituitary:0.91,1,0,0,0.93
+pi_Tr_pi_0649_b6d9c5.jpg,Pituitary,Pituitary:0.92,1,0,0,0.97
+pi_Tr_pi_0864_3d9aad.jpg,Pituitary,Pituitary:0.86,1,0,0,0.91
+pi_Tr_pi_0902_51ee3a.jpg,Pituitary,Pituitary:0.84,1,0,0,0.87
+pi_Tr_pi_0925_f5aa96.jpg,Pituitary,Pituitary:0.90,1,0,0,0.96
+pi_Tr_pi_1063_92de44.jpg,Pituitary,Pituitary:0.86,1,0,0,0.86
+pi_Tr_pi_1071_e32cf8.jpg,Pituitary,Pituitary:0.92,1,0,0,0.96
+pi_Tr_pi_1161_4a04f6.jpg,Pituitary,Pituitary:0.88,1,0,0,0.84
+pi_Tr_pi_1251_71afc5.jpg,Pituitary,Pituitary:0.91,1,0,0,0.97
+pi_Tr_pi_1252_763860.jpg,Pituitary,Pituitary:0.83 Pituitary:0.73 Pituitary:0.66 Pituitary:0.55 Pituitary:0.51,1,4,0,0.89
+pi_Tr_pi_1328_06b6f1.jpg,Pituitary,Pituitary:0.86,1,0,0,0.89
+pi_Tr_pi_1357_6c9b1a.jpg,Pituitary,Pituitary:0.89,1,0,0,0.92
+pi_Tr_pi_1359_4ea06c.jpg,Pituitary,Pituitary:0.89,1,0,0,0.94
+pi_Tr_pi_1436_c4b724.jpg,Pituitary,Pituitary:0.88 Pituitary:0.78,1,1,0,0.51
+pi_Tr_pi_1437_300182.jpg,Pituitary,Pituitary:0.83 Pituitary:0.69,1,1,0,0.84
+pi_Tr_pi_1444_9267e8.jpg,Pituitary,Pituitary:0.91,1,0,0,0.95
+pi_p_417_7e1ed0.jpg,Pituitary,Pituitary:0.81,1,0,0,0.94
+pi_p_418_ed0f83.jpg,Pituitary,Pituitary:0.86,1,0,0,0.92
+pi_p_434_791295.jpg,Pituitary,Pituitary:0.87,1,0,0,0.56
+pi_p_560_8a85a2.jpg,Pituitary,Pituitary:0.84,1,0,0,0.82
+pi_p_561_d33c17.jpg,Pituitary,Pituitary:0.83,1,0,0,0.94
+pi_p_562_b8dc48.jpg,Pituitary,Pituitary:0.81,1,0,0,0.65
+pi_p_614_a95af5.jpg,Pituitary,Pituitary:0.88,1,0,0,0.83
+pi_p_65_f53734.jpg,Pituitary,Pituitary:0.88,1,0,0,0.94
+pi_p_733_db7a36.jpg,Pituitary,Pituitary:0.89,1,0,0,0.87
+pi_p_735_803ea5.jpg,Pituitary,Pituitary:0.88,1,0,0,0.94
+pi_p_736_4abece.jpg,Pituitary,Pituitary:0.89,1,0,0,0.85
+pi_p_73_963c17.jpg,Pituitary,Pituitary:0.93,1,0,0,0.97
+pi_p_754_a818b6.jpg,Pituitary,Pituitary:0.87,1,0,0,0.92
+pi_p_755_142cc8.jpg,Pituitary Pituitary,Pituitary:0.80 Pituitary:0.48,2,0,0,0.62 0.89
+pi_p_786_62d587.jpg,Pituitary,Pituitary:0.85,1,0,0,0.81
+pi_p_787_f988ea.jpg,Pituitary,Pituitary:0.88,1,0,0,0.89
