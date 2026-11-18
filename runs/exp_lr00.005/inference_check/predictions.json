@@ -1,0 +1,44 @@
+[
+  {
+    "file": "gl_Tr_gl_1029_499077.jpg",
+    "source_class": "Glioma",
+    "detections": [
+      {
+        "class": "Glioma",
+        "confidence": 0.8907,
+        "box": [
+          327.1126708984375,
+          161.39462280273438,
+          387.286865234375,
+          235.99557495117188
+        ]
+      }
+    ]
+  },
+  {
+    "file": "me_m1_49_6ea4e2.jpg",
+    "source_class": "Meningioma",
+    "detections": [
+      {
+        "class": "Pituitary",
+        "confidence": 0.8916,
+        "box": [
+          221.06692504882812,
+          177.10580444335938,
+          280.43310546875,
+          241.61196899414062
+        ]
+      }
+    ]
+  },
+  {
+    "file": "no_image_52_c03743.jpg",
+    "source_class": "No Tumor",
+    "detections": []
+  },
+  {
+    "file": "pi_p_818_42018f.jpg",
+    "source_class": "Pituitary",
+    "detections": []
+  }
+]
