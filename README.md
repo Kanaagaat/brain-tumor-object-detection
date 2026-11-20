@@ -73,4 +73,4 @@ The dataset lacks patient IDs, so the grouping heuristics cannot guarantee patie
 
 ## Acknowledgments
 
-The project uses the [Ultralytics YOLO11 implementation](https://docs.ultralytics.com/models/yolo11/) and Ultralytics COCO-pretrained weights. OpenAI Codex assisted with troubleshooting, reproducibility checks, notebook and documentation updates, and preparation of the error-analysis figure.
+The project uses the [Ultralytics YOLO11 implementation](https://docs.ultralytics.com/models/yolo11/) and Ultralytics COCO-pretrained weights. OpenAI Codex assisted with troubleshooting, reproducibility checks, notebook and documentation updates, and preparation of the error-analysis figure. Anthropic's Claude assisted with the requirements check, the defense slides, and defense preparation notes.
